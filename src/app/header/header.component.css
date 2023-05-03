@@ -1,0 +1,17 @@
+.header{
+   width: 100%;
+   background-color:rgba(107, 3, 3, 0.652);
+   border-bottom: solid 1px;
+
+
+}
+
+.menu{
+   margin: 0px;
+   padding: 0px;
+   display: flex;
+   list-style: none;
+   align-items: center;
+   align-content: center;
+   justify-content: space-around;
+}
